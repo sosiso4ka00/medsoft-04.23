@@ -1,0 +1,25 @@
+{
+  "name": "medsoft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npx ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sosiso4ka00/medsoft-04.23.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sosiso4ka00/medsoft-04.23/issues"
+  },
+  "homepage": "https://github.com/sosiso4ka00/medsoft-04.23#readme"
+}
